@@ -14,9 +14,9 @@
 }
 
 .theme-dark {
-    --background-primary: #1F2125 !important;
+    --background-primary: #FCAFF4 !important;
     --background-secondary: var(--background-primary) !important;
-    --background-secondary-alt: #14161A !important;
+    --background-secondary-alt: #FCAFF4 !important;
     --background-tertiary: var(--background-secondary-alt) !important;
     --background-modifier-active: var(--background-primary) !important;
     --background-modifier-selected: var(--background-secondary-alt) !important;
